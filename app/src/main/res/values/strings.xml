@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ReciclApp</string>
+    <string name="app_Titulo">App Ambiental</string>
+    <string name="app_botton">!comienzar¡</string>
+
+    <string name="app_menu">Menu</string>
+    <string name="app_botton1">!Recicla ya¡</string>
+    <string name="app_botton2">Tipos</string>
+    <string name="app_botton3">Metodos</string>
+    <string name="app_botton4">inicio</string>
+
+    <string name="app_titulo1">Recicla ya</string>
+    <string name="app_info1">Esta caneca sirve para depositar plástico, vidrio, metales, papel y cartón. Caneca Negra – Residuos No Aprovechables: Para depositar papel higiénico; servilletas, papeles y cartones contaminados con alimentos; papeles metalizados, entre otros.</string>
+    <string name="app_info2">Aqui puedes depositar Residuos Orgánicos Aprovechables como restos de alimentos desechos agrícolas, poda de césped, etc.</string>
+    <string name="app_info3">Aqui puedes depositar Residuos No Aprovechables como papel higiénico; servilletas, papeles y cartones contaminados con alimentos; papeles metalizados, entre otros.</string>
+    <string name="button_return">Volver a menu principal</string>
+
+    <string name="app_titulo2">Metodos</string>
+    <string name="app_contenido1">Se refiere a todas las técnicas y procesos que incluyan el trabajo manual o ayudado por máquinas. Este tipo de reciclaje es utilizado mucho en la clasificación de residuos mezclados y en el reciclaje del plástico.</string>
+    <string name="app_contenido2">Incluye técnicas y procedimientos que implican el cambio en la estructura química del material. Su finalidad es la descomposición del polímero para la obtención de monómeros. Este tipo de reciclaje es utilizado mediante disoluciones, hidrólisis, hidrogenación…</string>
+    <string name="app_contenido3">Metodos</string>
+
+    <string name="app_tipo">Tipos</string>
+
+</resources>
